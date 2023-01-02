@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<br>
+<img src="https://raw.githubusercontent.com/ReactJs-Fun/Language-Translator-ReactJS/master/Capture.PNG">
+<br>
+
 ## Available Scripts
 
 In the project directory, you can run:
